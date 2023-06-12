@@ -1,4 +1,4 @@
-# Starter REST Api
+# Starter REST Api for a very small
 
 This is an example REST Api designed to be deployed on Cyclic.sh
 
